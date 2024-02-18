@@ -1,5 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=header"/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA9A&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Maia;I'm+24+years+old;I'm+from+Brazil;I+Graduated+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br />
